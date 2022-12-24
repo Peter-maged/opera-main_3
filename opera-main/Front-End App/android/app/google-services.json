@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106270077",
+    "project_id": "operahouse-92ee5",
+    "storage_bucket": "operahouse-92ee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106270077:android:8035ae5da7f05946e1d014",
+        "android_client_info": {
+          "package_name": "com.APYZ.operahouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106270077-gvi8ljgo4n8m1vs7i26qgbb74e5hub8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_xfFYOSYbrs9e2BJAq-HAeQbmBWwKUAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106270077-gvi8ljgo4n8m1vs7i26qgbb74e5hub8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
